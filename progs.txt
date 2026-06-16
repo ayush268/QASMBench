@@ -1,0 +1,13 @@
+small/vqe_n4/vqe_n4.qasm
+small/ising_n10/ising_n10.qasm
+small/vqe_uccsd_n4/vqe_uccsd_n4.qasm
+small/vqe_uccsd_n6/vqe_uccsd_n6.qasm
+small/vqe_uccsd_n8/vqe_uccsd_n8.qasm
+small/basis_trotter_n4/basis_trotter_n4.qasm
+medium/vqe_n24/vqe_n24.qasm
+medium/ising_n26/ising_n26.qasm
+large/vqe_uccsd_n28/vqe_uccsd_n28.qasm
+large/ising_n34/ising_n34.qasm
+large/ising_n66/ising_n66.qasm
+large/ising_n98/ising_n98.qasm
+large/ising_n420/ising_n420.qasm
