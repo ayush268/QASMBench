@@ -82,6 +82,6 @@ cx q[1],q[2];
 cx q[0],q[2];
 ccx q[14],q[9],q[7];
 
-measure q[2] -> m_result[0];
-measure q[5] -> m_result[1];
-measure q[8] -> m_result[2];
+//measure q[2] -> m_result[0];
+//measure q[5] -> m_result[1];
+//measure q[8] -> m_result[2];

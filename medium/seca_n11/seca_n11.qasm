@@ -45,10 +45,10 @@ cx q[9], q[10];
 
 barrier q; // Alice teleports the quantum state of qubit 0 to Bob's qubit.
 cx q[0], q[9];
-measure q[9] -> c[9];
+//measure q[9] -> c[9];
 h q[0];
 cx q[9], q[10];
-measure q[0] -> c[0];
+//measure q[0] -> c[0];
 cz q[0], q[10];
 
 barrier q; // Bob corrects for bit flips and sign flips
@@ -100,4 +100,4 @@ barrier q; // Based on Alice's measurements, Bob reverses the secret unitary.
 // 11 apply ZX
 h q[10];
 z q[10];
-measure q[10] -> c[10];
+//measure q[10] -> c[10];

@@ -1162,13 +1162,13 @@ rx(pi*0.3501408748) q[0];
 ry(pi*0.3501408748) q[0];
 rz(pi*0.3501408748) q[0];
 
-measure q[0] -> ans[0];
-measure q[1] -> ans[1];
-measure q[2] -> ans[2];
-measure q[3] -> ans[3];
-measure q[4] -> ans[4];
-measure q[5] -> ans[5];
-measure q[6] -> ans[6];
-measure q[7] -> ans[7];
+//measure q[0] -> ans[0];
+//measure q[1] -> ans[1];
+//measure q[2] -> ans[2];
+//measure q[3] -> ans[3];
+//measure q[4] -> ans[4];
+//measure q[5] -> ans[5];
+//measure q[6] -> ans[6];
+//measure q[7] -> ans[7];
 
 

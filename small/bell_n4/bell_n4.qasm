@@ -50,7 +50,7 @@ u3(pi*0.5,pi*0.5,pi*1.0) q[1];
 u3(pi*0.5,pi*1.0,pi*1.0) q[0];
 ry(pi*0.5) q[0];
 
-measure q[2] -> m_b[0];
-measure q[3] -> m_y[0];
-measure q[0] -> m_a[0];
-measure q[1] -> m_x[0];
+//measure q[2] -> m_b[0];
+//measure q[3] -> m_y[0];
+//measure q[0] -> m_a[0];
+//measure q[1] -> m_x[0];

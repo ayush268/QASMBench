@@ -43,14 +43,14 @@ cu1(-pi/2) q[1], q[0];
 
 barrier q; // output should be 32 (binary 100000)
 h q[0];
-measure q[0] -> c[0];
+//measure q[0] -> c[0];
 h q[1];
-measure q[1] -> c[1];
+//measure q[1] -> c[1];
 h q[2];
-measure q[2] -> c[2];
+//measure q[2] -> c[2];
 h q[3];
-measure q[3] -> c[3];
+//measure q[3] -> c[3];
 h q[4];
-measure q[4] -> c[4];
+//measure q[4] -> c[4];
 h q[5];
-measure q[5] -> c[5];
+//measure q[5] -> c[5];

@@ -268,5 +268,5 @@ rx(pi*0.3501408748) q[0];
 ry(pi*0.3501408748) q[0];
 rz(pi*0.3501408748) q[0];
 
-measure q[0] -> ans[0];
-measure q[1] -> ans[1];
+//measure q[0] -> ans[0];
+//measure q[1] -> ans[1];

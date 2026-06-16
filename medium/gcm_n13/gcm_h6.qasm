@@ -3151,4 +3151,4 @@ rz(-pi) q[9];
 sx q[9];
 rz(3*pi/4) q[9];
 sx q[9];
-measure q[0] -> c[0];
+//measure q[0] -> c[0];

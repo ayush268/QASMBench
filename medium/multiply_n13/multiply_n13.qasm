@@ -27,8 +27,8 @@ cx q[9], q[12]; // 3rd digit
 // With 3 x 5, all addition can be done with simple XOR gates.
 
 barrier q; // measure
-measure q[5] -> c[0];
-measure q[11] -> c[1];
-measure q[12] -> c[2];
-measure q[10] -> c[3];
+//measure q[5] -> c[0];
+//measure q[11] -> c[1];
+//measure q[12] -> c[2];
+//measure q[10] -> c[3];
 // This measures the appropriate qubits and sends the output to the classical registers for display as a histogram.

@@ -78,7 +78,7 @@ cx rout[3], rout[7];
 cx addr[0], rout[3];
 
 // measure queried data
-measure addr[0] -> cout[0];
-measure addr[1] -> cout[1];
-measure addr[2] -> cout[2];
-measure qout[0] -> cout[3];
+//measure addr[0] -> cout[0];
+//measure addr[1] -> cout[1];
+//measure addr[2] -> cout[2];
+//measure qout[0] -> cout[3];

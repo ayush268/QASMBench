@@ -13,8 +13,8 @@ gate syndrome d1,d2,d3,a1,a2
 x q[0]; // error
 barrier q;
 syndrome q[0],q[1],q[2],a[0],a[1];
-measure a -> syn;
+//measure a -> syn;
 if(syn==1) x q[0];
 if(syn==2) x q[2];
 if(syn==3) x q[1];
-measure q -> c;
+//measure q -> c;

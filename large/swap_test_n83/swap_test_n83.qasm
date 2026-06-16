@@ -127,4 +127,4 @@ cswap q0[0],q0[39],q0[80];
 cswap q0[0],q0[40],q0[81];
 cswap q0[0],q0[41],q0[82];
 h q0[0];
-measure q0[0] -> c0[0];
+//measure q0[0] -> c0[0];

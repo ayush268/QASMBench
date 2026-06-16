@@ -46,12 +46,12 @@ x b[6]; // b = 10111111
 add4 a[0],a[1],a[2],a[3],b[0],b[1],b[2],b[3],carry[0],carry[1];
 add4 a[4],a[5],a[6],a[7],b[4],b[5],b[6],b[7],carry[1],carry[0];
 
-measure b[0] -> ans[0];
-measure b[1] -> ans[1];
-measure b[2] -> ans[2];
-measure b[3] -> ans[3];
-measure b[4] -> ans[4];
-measure b[5] -> ans[5];
-measure b[6] -> ans[6];
-measure b[7] -> ans[7];
-measure carry[0] -> carryout[0];
+//measure b[0] -> ans[0];
+//measure b[1] -> ans[1];
+//measure b[2] -> ans[2];
+//measure b[3] -> ans[3];
+//measure b[4] -> ans[4];
+//measure b[5] -> ans[5];
+//measure b[6] -> ans[6];
+//measure b[7] -> ans[7];
+//measure carry[0] -> carryout[0];

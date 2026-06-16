@@ -48,5 +48,5 @@ h var[0];
 h var[1];
 h var[2];
 
-measure var[1] -> ans[0];
-measure var[2] -> ans[1];
+//measure var[1] -> ans[0];
+//measure var[2] -> ans[1];

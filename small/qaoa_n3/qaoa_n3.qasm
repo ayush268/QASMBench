@@ -25,8 +25,8 @@ cx q[0],q[1];
 rx(pi*0.545344) q[2];
 rz(pi*-5.39959) q[1];
 rx(pi*0.545344) q[0];
-measure q[2] -> m2[0];
+//measure q[2] -> m2[0];
 rx(pi*0.545344) q[1];
-measure q[0] -> m0[0];
-measure q[1] -> m1[0];
+//measure q[0] -> m0[0];
+//measure q[1] -> m1[0];
 

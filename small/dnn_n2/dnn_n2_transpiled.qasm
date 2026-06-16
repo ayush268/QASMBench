@@ -308,5 +308,5 @@ sx q[1];
 rz(-1.9869531) q[1];
 sx q[1];
 rz(-1.5226946) q[1];
-measure q[0] -> ans[0];
-measure q[1] -> ans[1];
+//measure q[0] -> ans[0];
+//measure q[1] -> ans[1];

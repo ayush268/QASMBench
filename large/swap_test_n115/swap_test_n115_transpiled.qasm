@@ -1718,4 +1718,4 @@ rz(pi/2) q0[0];
 sx q0[0];
 rz(pi/2) q0[0];
 cx q0[114],q0[57];
-measure q0[0] -> c0[0];
+//measure q0[0] -> c0[0];

@@ -43,7 +43,7 @@ cz q[1],q[2];
 u3(pi*0.5,pi*1.3937948052,0) q[2];
 u3(pi*0.5,pi*1.1556453697,pi*0.5) q[1];
 
-measure q[0] -> c[0];
-measure q[1] -> c[1];
-measure q[2] -> c[2];
+//measure q[0] -> c[0];
+//measure q[1] -> c[1];
+//measure q[2] -> c[2];
 
