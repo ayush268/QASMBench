@@ -1,0 +1,6 @@
+small/vqe_n4/vqe_n4.qasm
+small/ising_n10/ising_n10.qasm
+small/vqe_uccsd_n4/vqe_uccsd_n4.qasm
+small/vqe_uccsd_n6/vqe_uccsd_n6.qasm
+small/vqe_uccsd_n8/vqe_uccsd_n8.qasm
+small/basis_trotter_n4/basis_trotter_n4.qasm
